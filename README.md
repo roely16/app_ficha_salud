@@ -1,4 +1,6 @@
-# app_crm_2
+# Aplicación Ficha de Salud
+
+Aplicación desarrollada durante la atención a la pandemia de COVID-19.  Esta basada en la aplicación del CRM. 
 
 ## Project setup
 ```
